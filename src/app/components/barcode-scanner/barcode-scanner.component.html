@@ -1,0 +1,11 @@
+
+<zxing-scanner
+    #scanner
+    class="scanner"
+    [autostart]="true"
+    [device]="newSelectedCamera"
+    [formats]="allowedFormats"
+    (camerasFound)="onCamerasFound($event)"
+    (scanSuccess)="onCodeResult($event)"
+    (scanError)="scanError($event)"
+  ></zxing-scanner>
