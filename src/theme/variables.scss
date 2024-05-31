@@ -24,43 +24,44 @@
     }
   }
   /** primary **/
-  --ion-color-primary: #00ADD3;
-  --ion-color-primary-rgb: 56, 128, 255;
+  --ion-color-primary: #800000;
+  --ion-color-primary-rgb: 128, 0, 0;
   --ion-color-primary-contrast: #ffffff;
   --ion-color-primary-contrast-rgb: 255, 255, 255;
-  --ion-color-primary-shade: #3171e0;
-  --ion-color-primary-tint: #4c8dff;
-  --ion-text-color:#000000;
-  --ion-toolbar-background	: #00ADD3;
-  --ion-item-background	: #ffffff;
-  --ion-item-color	: #000000;
+  --ion-color-primary-shade: #FF0038;
+  --ion-color-primary-tint: #fffdfd;
+  --ion-text-color: #000000;
+  --ion-toolbar-background: #890000;
+  --ion-item-background: #ffffff;
+  --ion-item-color: #000000;
   --ion-color-step-850: #FFFFFF;
-  --ion-toolbar-color	:#ffffff;
-  --ion-card-background:#ffffff;
-  --ion-card-color:#ffffff;
+  --ion-toolbar-color: #ffffff;
+  --ion-card-background: #ffffff;
+  --ion-card-color: #ffffff;
+
   /** secondary **/
-  --ion-color-secondary: white;
-  --ion-color-secondary-rgb: 61, 194, 255;
+  --ion-color-secondary: #ffffff;
+  --ion-color-secondary-rgb: 255, 255, 255;
   --ion-color-secondary-contrast: #000000;
-  --ion-color-secondary-contrast-rgb: 255, 255, 255;
-  --ion-color-secondary-shade: #36abe0;
-  --ion-color-secondary-tint: #50c8ff;
+  --ion-color-secondary-contrast-rgb: 0, 0, 0;
+  --ion-color-secondary-shade: #e0e0e0;
+  --ion-color-secondary-tint: #ffffff;
 
   /** tertiary **/
-  --ion-color-tertiary: #5260ff;
+  --ion-color-tertiary: #890000;
   --ion-color-tertiary-rgb: 82, 96, 255;
   --ion-color-tertiary-contrast: #ffffff;
   --ion-color-tertiary-contrast-rgb: 255, 255, 255;
-  --ion-color-tertiary-shade: #4854e0;
-  --ion-color-tertiary-tint: #6370ff;
+  --ion-color-tertiary-shade: #890000;
+  --ion-color-tertiary-tint: #890000;
 
   /** success **/
   --ion-color-success: #203d76;
-  --ion-color-success-rgb: 45, 211, 111;
+  --ion-color-success-rgb: 32, 61, 118;
   --ion-color-success-contrast: #ffffff;
   --ion-color-success-contrast-rgb: 255, 255, 255;
-  --ion-color-success-shade: #28ba62;
-  --ion-color-success-tint: #42d77d;
+  --ion-color-success-shade: #1c3563;
+  --ion-color-success-tint: #354b92;
 
   /** warning **/
   --ion-color-warning: #ffc409;
